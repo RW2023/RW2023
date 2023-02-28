@@ -1,4 +1,4 @@
-Greetings! 👋 I am <strong>@RW2023</strong>, a junior full stack developer.
+Greetings! 👋 I am <strong>RE. Wilson</strong>, a junior full stack developer.
 
 My primary interest lies in front-end development 👀, and I am currently focused on honing my skills in this domain. I have a passion for these machines we have invented and I am dedicated to learning their language 🌱. I am continue to learn the latest industry standards and best practices, and I am always eager to expand my knowledge.
 
