@@ -14,4 +14,4 @@ RW2023/RW2023 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://www.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_28159021.htm#query=web%20developer%20banner&position=6&from_view=search&track=ais">Image by vector4stock</a> on Freepik
+<a href="https://www.freepik.com/free-vector/colored-isometric-programmers-composition-with-software-development-description-man-sit-work_6869595.htm#page=2&query=html%20css%20javascript&position=49&from_view=search&track=ais">Image by macrovector</a> on Freepik
