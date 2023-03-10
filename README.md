@@ -2,7 +2,7 @@ Greetings! 👋
 
  I am <strong>RE. Wilson</strong>, a *junior* full stack developer.
 
-![Developer working on computer](https://www.freepik.com/free-vector/new-app-development-desktop_10276612.htm#query=developer&position=33&from_view=search&track=sph)
+![Computer Screen](https://i.ibb.co/HCXk5QB/10276612-4421964.jpg)
 
 My primary interest lies in *front-end development* 👀, and I am currently focused on honing my skills in this domain. I have a passion for these machines we have invented and I am dedicated to learning their language 🌱. I  continue to learn the latest industry standards and best practices, and I am always eager to expand my knowledge.
 
