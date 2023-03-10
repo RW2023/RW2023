@@ -2,7 +2,7 @@ Greetings! 👋
 
  I am <strong>RE. Wilson</strong>, a *junior* full stack developer.
 
-<img src="https://i.ibb.co/HpG3Tmj/28159021-site-design-12.jpg" alt="Developer Banner">
+<img src="https://i.ibb.co/R9SXLHZ/6869595-29045.jpg" alt="Developer Banner">
 
 
 
