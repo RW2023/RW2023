@@ -13,5 +13,6 @@ I am actively seeking opportunities to collaborate with like-minded students on 
 RW2023/RW2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RW2023)](https://git.io/streak-stats)
 
 <a href="https://www.freepik.com/free-vector/colored-isometric-programmers-composition-with-software-development-description-man-sit-work_6869595.htm#page=2&query=html%20css%20javascript&position=49&from_view=search&track=ais">Image by macrovector</a> on Freepik
