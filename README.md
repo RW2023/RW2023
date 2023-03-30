@@ -1,4 +1,4 @@
-# Greetings! 👋
+# Greetings! 👋🏾
 
 ##  I am <strong>RE. Wilson</strong>, a *junior* front-end developer.
 
