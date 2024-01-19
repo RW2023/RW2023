@@ -1,6 +1,6 @@
 # Greetings! 👋🏾
 
-##  I am <strong>Ryan Wilson</strong>, a *junior* full-stack developer.
+##  I am <strong>Ryan Wilson</strong>, a  full-stack developer.
 
 <img src="https://i.ibb.co/R9SXLHZ/6869595-29045.jpg" alt="Developer Banner" width="1000" height="275">
 
